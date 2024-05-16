@@ -1,0 +1,10 @@
+\contentsline {chapter}{\hspace {0.45cm} WSTĘP}{1}{}%
+\contentsline {chapter}{\numberline {1}TYTUŁ ROZDZIAŁU PIERWSZEGO}{2}{}%
+\contentsline {section}{\numberline {1.1}Numerowanie}{2}{}%
+\contentsline {subsection}{\numberline {1.1.1}nowe}{2}{}%
+\contentsline {section}{\numberline {1.2}skrót}{2}{}%
+\contentsline {chapter}{\numberline {2}TYTUŁ ROZDZIAŁU DRUGIEGO}{7}{}%
+\contentsline {chapter}{\numberline {3}TYTUŁ ROZDZIAŁU TRZECIEGO}{8}{}%
+\contentsline {chapter}{\hspace {0.45cm} ZAKOŃCZENIE}{9}{}%
+\contentsline {chapter}{\hspace {0.45cm} LITERATURA}{10}{}%
+\contentsline {chapter}{\hspace {0.45cm} STRESZCZENIE}{11}{}%
